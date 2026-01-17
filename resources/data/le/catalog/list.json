@@ -1,0 +1,24 @@
+[
+    {
+	"id": 1001,
+	"locked": true,
+	"title": "Between Half Steps",
+	"description": "",
+	"catalog_file": "catalog_1001.json",
+	"catalog_url": "https://paralevels.com/resources/data/le/catalog/catalog_1001.json",
+	"package_url": "https://paralevels.com/resources/data/le/catalog/packages/catalog_1001.zip",
+	"image_url": "https://paralevels.com/resources/data/le/catalog/images/catalog_1001.webp",
+	"version": "1.0.0"
+    },
+    {
+	"id": 1002,
+	"locked": true,
+	"title": "Dreams of Butterflies",
+	"description": "",
+	"catalog_file": "catalog_1002.json",
+	"catalog_url": "https://paralevels.com/resources/data/le/catalog/catalog_1002.json",
+	"package_url": "https://paralevels.com/resources/data/le/catalog/packages/catalog_1002.zip",
+	"image_url": "https://paralevels.com/resources/data/le/catalog/images/catalog_1002.webp",
+	"version": "1.0.0"
+    }
+]
