@@ -5,7 +5,7 @@
     {
       "id": 0,
       "image": "user://content/encounters/1000044/images/0.webp",
-      "text": "You arrive at the threshold of something you can’t yet name.",
+      "text": "You arrive at the threshold of something you can’t yet name."
     },
     {
       "id": 1,
@@ -27,12 +27,12 @@
     {
       "id": 2,
       "image": "user://content/encounters/1000044/images/2.webp",
-      "text": "Whatever you chose, the moment has already changed you.",
+      "text": "Whatever you chose, the moment has already changed you."
     },
     {
       "id": 3,
       "image": "user://content/encounters/1000044/images/3.webp",
-      "text": "This is just the beginning.",
+      "text": "This is just the beginning."
     }
   ]
 }
