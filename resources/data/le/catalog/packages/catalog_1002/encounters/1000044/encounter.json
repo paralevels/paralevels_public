@@ -1,0 +1,38 @@
+{
+  "id": 1000044,
+  "title": "Encounter 44",
+  "scenes": [
+    {
+      "id": 0,
+      "image": "user://content/encounters/1000044/images/0.webp",
+      "text": "You arrive at the threshold of something you can’t yet name.",
+    },
+    {
+      "id": 1,
+      "image": "user://content/encounters/1000044/images/1.webp",
+      "text": "Do you move closer, or do you hold back and watch?\n\n  1. Yes\n  2. No",
+      "choices": [
+          {
+            "id": 1,
+            "label": "1",
+            "next_scene": 2
+          },
+          {
+            "id": 2,
+            "label": "2",
+            "next_scene": 3
+          }
+        ]
+    },
+    {
+      "id": 2,
+      "image": "user://content/encounters/1000044/images/2.webp",
+      "text": "Whatever you chose, the moment has already changed you.",
+    },
+    {
+      "id": 3,
+      "image": "user://content/encounters/1000044/images/3.webp",
+      "text": "This is just the beginning.",
+    }
+  ]
+}
