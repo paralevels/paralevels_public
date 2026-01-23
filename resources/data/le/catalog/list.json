@@ -8,7 +8,7 @@
 	"package_file": "catalog_2001.zip",
 	"image_file": "catalog_2001.webp",
 	"catalog_url": "https://paralevels.com/resources/data/le/catalog/catalog_2001.json",
-	"package_url": "https://paralevels.com/resources/data/le/catalog/packages/catalog_2001.zip",
+	"package_url": "https://paralevels.com/resources/data/le/catalog/packages/catalog_2001-20260123.zip",
 	"image_url": "https://paralevels.com/resources/data/le/catalog/images/catalog_2001.webp",
 	"version": "1.0.0"
     },
@@ -21,7 +21,7 @@
 	"package_file": "catalog_2002.zip",
 	"image_file": "catalog_2002.webp",
 	"catalog_url": "https://paralevels.com/resources/data/le/catalog/catalog_2002.json",
-	"package_url": "https://paralevels.com/resources/data/le/catalog/packages/catalog_2002.zip",
+	"package_url": "https://paralevels.com/resources/data/le/catalog/packages/catalog_2002-20260123.zip",
 	"image_url": "https://paralevels.com/resources/data/le/catalog/images/catalog_2002.webp",
 	"version": "1.0.0"
     }
