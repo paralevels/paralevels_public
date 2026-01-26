@@ -1,142 +1,127 @@
-[
-    {
-	"catalog": "Between Half Steps",
-	"id": 2000001,
-	"title": "Encounter 1",
-	"key": "2000001_encounter_1",
-	"locked": false
-    },
-    {
-	"catalog": "Between Half Steps",
-	"id": 2000002,
-	"title": "Encounter 2",
-	"key": "2000002_encounter_2",
-	"locked": false
-    },
-    {
-	"catalog": "Between Half Steps",
-	"id": 2000003,
-	"title": "Encounter 3",
-	"key": "2000001_encounter_3",
-	"locked": false
-    },
-    {
-	"catalog": "Between Half Steps",
-	"id": 2000004,
-	"title": "Encounter 4",
-	"key": "2000004_encounter_4",
-	"locked": false
-    },
-    {
-	"catalog": "Between Half Steps",
-	"id": 2000005,
-	"title": "Encounter 5",
-	"key": "2000005_encounter_5",
-	"locked": false
-    },
-    {
-	"catalog": "Between Half Steps",
-	"id": 2000006,
-	"title": "Encounter 6",
-	"key": "2000006_encounter_6",
-	"locked": false
-    },
-    {
-	"catalog": "Between Half Steps",
-	"id": 2000007,
-	"title": "Encounter 7",
-	"key": "2000007_encounter_7",
-	"locked": false
-    },
-    {
-	"catalog": "Between Half Steps",
-	"id": 2000008,
-	"title": "Encounter 8",
-	"key": "2000008_encounter_8",
-	"locked": false
-    },
-    {
-	"catalog": "Between Half Steps",
-	"id": 2000009,
-	"title": "Encounter 9",
-	"key": "2000009_encounter_9",
-	"locked": false
-    },
-    {   
-	"catalog": "Between Half Steps",
-	"id": 2000010,
-	"title": "Encounter 10",
-	"key": "2000010_encounter_10",
-	"locked": false
-    },
-    {
-	"catalog": "Between Half Steps",
-	"id": 2000011,
-	"title": "Encounter 11",
-	"key": "2000011_encounter_11",
-	"locked": false
-    },
-    {
-	"catalog": "Between Half Steps",
-	"id": 2000012,
-	"title": "Encounter 12",
-	"key": "2000012_encounter_12",
-	"locked": false
-    },
-    {
-	"catalog": "Between Half Steps",
-	"id": 2000013,
-	"title": "Encounter 13",
-	"key": "2000013_encounter_13",
-	"locked": false
-    },
-    {
-	"catalog": "Between Half Steps",
-	"id": 2000014,
-	"title": "Encounter 14",
-	"key": "2000014_encounter_14",
-	"locked": false
-    },
-    {
-	"catalog": "Between Half Steps",
-	"id": 2000015,
-	"title": "Encounter 15",
-	"key": "2000015_encounter_15",
-	"locked": false
-    },
-    {
-	"catalog": "Between Half Steps",
-	"id": 2000016,
-	"title": "Encounter 16",
-	"key": "2000016_encounter_16",
-	"locked": false
-    },
-    {
-	"catalog": "Between Half Steps",
-	"id": 2000017,
-	"title": "Encounter 17",
-	"key": "2000017_encounter_17",
-	"locked": false
-    },
-    {
-	"catalog": "Between Half Steps",
-	"id": 2000018,
-	"title": "Encounter 18",
-	"key": "2000018_encounter_18",
-	"locked": false
-    },
-    {
-	"catalog": "Between Half Steps",
-	"id": 2000019,
-	"title": "Encounter 19",
-	"key": "2000019_encounter_19",
-	"locked": false
-    },
-    {
-	"catalog": "Between Half Steps",
-	"id": 2000020,
-	"title": "Encounter 20",
-	"key": "2000020_encounter_20",
-	"locked": false
-    }
-]
+{
+    "id": 2001,
+    "title": "Between Half Steps",
+    "locked": false,
+    "encounters": [
+        {
+            "id": 2000001,
+            "catalog_id": 2001,
+            "title": "Encounter 1",
+            "locked": false
+        },
+        {
+            "id": 2000002,
+            "catalog_id": 2001,
+            "title": "Encounter 2",
+            "locked": false
+        },
+        {
+            "id": 2000003,
+            "catalog_id": 2001,
+            "title": "Encounter 3",
+            "locked": false
+        },
+        {
+            "id": 2000004,
+            "catalog_id": 2001,
+            "title": "Encounter 4",
+            "locked": false
+        },
+        {
+            "id": 2000005,
+            "catalog_id": 2001,
+            "title": "Encounter 5",
+            "locked": false
+        },
+        {
+            "id": 2000006,
+            "catalog_id": 2001,
+            "title": "Encounter 6",
+            "locked": false
+        },
+        {
+            "id": 2000007,
+            "catalog_id": 2001,
+            "title": "Encounter 7",
+            "locked": false
+        },
+        {
+            "id": 2000008,
+            "catalog_id": 2001,
+            "title": "Encounter 8",
+            "locked": false
+        },
+        {
+            "id": 2000009,
+            "catalog_id": 2001,
+            "title": "Encounter 9",
+            "locked": false
+        },
+        {
+            "id": 2000010,
+            "catalog_id": 2001,
+            "title": "Encounter 10",
+            "locked": false
+        },
+        {
+            "id": 2000011,
+            "catalog_id": 2001,
+            "title": "Encounter 11",
+            "locked": false
+        },
+        {
+            "id": 2000012,
+            "catalog_id": 2001,
+            "title": "Encounter 12",
+            "locked": false
+        },
+        {
+            "id": 2000013,
+            "catalog_id": 2001,
+            "title": "Encounter 13",
+            "locked": false
+        },
+        {
+            "id": 2000014,
+            "catalog_id": 2001,
+            "title": "Encounter 14",
+            "locked": false
+        },
+        {
+            "id": 2000015,
+            "catalog_id": 2001,
+            "title": "Encounter 15",
+            "locked": false
+        },
+        {
+            "id": 2000016,
+            "catalog_id": 2001,
+            "title": "Encounter 16",
+            "locked": false
+        },
+        {
+            "id": 2000017,
+            "catalog_id": 2001,
+            "title": "Encounter 17",
+            "locked": false
+        },
+        {
+            "id": 2000018,
+            "catalog_id": 2001,
+            "title": "Encounter 18",
+            "locked": false
+        },
+        {
+            "id": 2000019,
+            "catalog_id": 2001,
+            "title": "Encounter 19",
+            "locked": false
+        },
+        {
+            "id": 2000020,
+            "catalog_id": 2001,
+            "title": "Encounter 20",
+            "locked": false
+        }
+    ]
+}
