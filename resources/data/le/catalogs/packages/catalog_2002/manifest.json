@@ -2,7 +2,7 @@
     "id": 2002,
     "root": "catalog_2002/",
     "files": [
-        "catalog/catalog_2002.json",
+        "catalogs/catalog_2002.json",
         "encounters/2000021/encounter.json",
         "encounters/2000021/images/0.webp",
         "encounters/2000021/images/1.webp",
